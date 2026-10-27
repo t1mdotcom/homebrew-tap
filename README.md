@@ -8,6 +8,7 @@ brew tap t1mdotcom/tap
 
 | Name              | Beschreibung                                                     | Install                          |
 | ----------------- | ---------------------------------------------------------------- | -------------------------------- |
+| `abo-manager`     | Abos im Terminal überblicken (TUI, Kommando `abo`)               | `brew install abo-manager`       |
 | `yt-playlist-mp3` | Lädt YouTube-Playlists als MP3 herunter (Wrapper um `yt-dlp`)    | `brew install yt-playlist-mp3`   |
 
 ## Casks
